@@ -38,6 +38,8 @@ module.exports = {
         "@typescript-eslint/no-unused-vars": "error",
         "@typescript-eslint/no-explicit-any": "error",
         "react/react-in-jsx-scope": "off",
+        "react/prop-types": "off",
+        "react/function-component-definition": "off",
         "react/jsx-filename-extension": [
             1,
             {
